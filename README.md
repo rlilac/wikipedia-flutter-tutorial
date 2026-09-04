@@ -1,3 +1,3 @@
 # wikipedia_reader
 
-A new Flutter project.
+completing the flutter tutorial for wikipedia reader
